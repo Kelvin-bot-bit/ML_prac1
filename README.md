@@ -183,6 +183,8 @@ tree.export_graphviz(
 ```
 
 The generated `music-recommender.dot` file provides a visual representation of the model's decision-making process.
+<img width="950" height="636" alt="image" src="https://github.com/user-attachments/assets/52757b5a-f05a-4557-bbf0-3d82899ec36f" />
+
 
 ---
 
